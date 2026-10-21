@@ -10,7 +10,7 @@ Pinch your thumb and index finger to grab a virtual slider, then drag:
 | Pinch + drag **right / left** | Volume up / down |
 | Release pinch | Let go (move your hand back and pinch again to keep going) |
 
-
+![demo](demo.gif)
 ## How it works
 
 1. **Hand tracking**: [MediaPipe Hand Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) finds 21 landmarks on your hand in every webcam frame.
